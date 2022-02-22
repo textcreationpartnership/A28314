@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the Queen at White-hall, August 23, 1691 by Jonathan Blagrave ...</title>
+            <author>Blagrave, Jonathan, 1652-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28314</idno>
+            <idno type="STC">Wing B3111</idno>
+            <idno type="STC">ESTC R6778</idno>
+            <idno type="EEBO-CITATION">12324650</idno>
+            <idno type="OCLC">ocm 12324650</idno>
+            <idno type="VID">59515</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28314)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59515)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 203:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the Queen at White-hall, August 23, 1691 by Jonathan Blagrave ...</title>
+                  <author>Blagrave, Jonathan, 1652-1698.</author>
+               </titleStmt>
+               <extent>31, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G.C. for John Southby ... and T. Jones ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by Her Majesties command"</note>
+                  <note>Advertisement on p. [1] at end.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59515:1"/>
+            <pb facs="tcp:59515:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd before the QUEEN AT <hi>WHITE-HALL, Auguſt</hi> 23. 1691.</p>
+            <p>BY <hi>Jonathan Blagrave</hi> Sub-Almoner, and Chaplain in Ordinary to Their Majeſties.</p>
+            <p>
+               <hi>Publiſhed by Her Majeſties Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. C.</hi> for <hi>John Southby</hi> at the <hi>Harrow</hi> in <hi>Cornhil,</hi> and <hi>T. Jones</hi> at the <hi>White Horſe</hi> without <hi>Temple-Bar,</hi> 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:59515:2"/>
+            <pb n="3" facs="tcp:59515:2"/>
+            <epigraph>
+               <bibl>
+                  <hi>Luke 12.4, 5.</hi>
+               </bibl>
+               <q>
+                  <p>And I ſay unto you my Friends, Be not afraid of them that kill the Body, and after that have no more that they can do.</p>
+                  <p>But I will forewarn you whom you ſhall fear: Fear him, which, after he hath killed, hath Power to caſt into Hell: Yea, I ſay unto you, fear him.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">M</seg>OST of that Fear and Terror, that Men un<g ref="char:EOLhyphen"/>dergo in this World, is occaſion'd by falſe Opinions, which they form to themſelves, of the Good or Evil of thoſe Circumſtances, that are incident to the Humane State And that it is Opinion only, and no real
+<pb n="4" facs="tcp:59515:3"/>Good or Evil in ſuch Circumſtances, that gives Men ſo much Diſturbance and Diſ<g ref="char:EOLhyphen"/>quiet, is evident from this, that in the very ſame Circumſtance, wherein one Man thinks himſelf Miſerable, another would account himſelf happy. And again in the ſame Con<g ref="char:EOLhyphen"/>dition, wherein one Man thinks himſelf Happy, another would account himſelf Miſerable. The Evil then doth not lie ſo much in the Circumſtance or Condition, but chiefly in a Man's Fancy or Opi<g ref="char:EOLhyphen"/>nion.</p>
+            <p>And this is yet more apparent, in that the greateſt Misfortunes, that befall Men, tho' they are very grievous at firſt, yet when they have been familiar to them, and they are us'd to them, they are no<g ref="char:EOLhyphen"/>thing; Tho' the Misfortune be the ſame, and the Men the ſame, yet it is nothing ſo Grievous, becauſe then they know all the Evil that is in it, and at firſt they form'd an Idea of it, which was much greater than the Truth; For this is the Unhappy Caſe of Poor Man, that muſt inform him<g ref="char:EOLhyphen"/>ſelf by the Mediation of Fleſhly Organs, by his Senſes and Imagination, that he
+<pb n="5" facs="tcp:59515:3"/>continually Cheats himſelf with falſe Images of Things: For as ſoon as he ſees any thing, that looks a little taking, that ſeems at firſt ſight to be Good and Pleaſant and Deſireable, preſently his Fancy falls to work, and he forms an Image of it, that is altogether lovely, he adorns it with all that he can find Charming; he never enquires into the Blemiſhes and Im<g ref="char:EOLhyphen"/>perfections of it; And having thus drawn a Repreſentation much beyond Truth, his Paſſions are inflam'd, and he purſues this Shadow, this work of his own Brain, and thereby loſes ſome real and ſubſtantial Good.</p>
+            <p>In like manner when a Man ſees any thing that at firſt Bluſh has a frightful Aſpect, immediately, without having Pa<g ref="char:EOLhyphen"/>tience to examine the Truth, he forms a dreadful Image of it in his Fancy, he draws it ſo Gaſtly, that he himſelf becomes imme<g ref="char:EOLhyphen"/>diately mightily afraid of it, and his Fear helps to make it ſtill more Terrible, and ſo he becomes like a Man that Fancies he ſees Shapes in the Dark; in flying from
+<pb n="6" facs="tcp:59515:4"/>which, he falls into ſome real Danger, tumbling into a River, or down a Precipice. And the Reaſon why the Generality of Men do thus Cheat themſelves, is, becauſe all Men would know every thing without being at the pains of Enquiry; and it is much eaſier to fancy a thing, to draw a Repreſentation of it in our Imagination, than it is to ſearch out the Real Truth.</p>
+            <p>But in nothing do Men more impoſe upon themſelves in this kind, than in the Apprehenſions of <hi>Death,</hi> they draw the moſt ugly and frightful Images of it in their Fancy, that is poſſible, and ſo this becomes to them the <hi>King of Terrors, And all their Lives long</hi> (as the Apoſtle ſpeaks) <hi>they are in Bondage thro' fear of it.</hi> There<g ref="char:EOLhyphen"/>fore the Politick Founders of States in<g ref="char:EOLhyphen"/>vented <hi>Superſtitions</hi> to remove this Fear, when there ſhould be occaſion to hazard Mens Lives for the Security of their Coun<g ref="char:EOLhyphen"/>try or the like. And it has been the con<g ref="char:EOLhyphen"/>tinual Study of the <hi>Philoſophers</hi> of all Sects, to perſwade Men out of this Fear, to make the Thoughts of Death more eaſie, and to
+<pb n="7" facs="tcp:59515:4"/>keep them from ſpoiling all the Enjoyments of Life.</p>
+            <p>And yet indeed Death it ſelf is no ſuch Terrible thing, if it be throughly examin'd and truly enquir'd into; But there is ſome<g ref="char:EOLhyphen"/>thing after Death, that well deſerves our Fear. Therefore our Bleſſed Lord, to re<g ref="char:EOLhyphen"/>move from his Diſciples this vulgar Miſtake, to deliver them from this common, but vain Fear, and to ſhew them where they had reaſon to Fear, and how their Fear might do them good, and prevent great and real Evils, ſpeaks thus to them in the words of my Text, <hi>And I ſay unto you,</hi> &amp;c.</p>
+            <p>In purſuance of the Deſign of which words, I ſhall ſhew,</p>
+            <p>
+               <hi>Firſt,</hi> That Death it ſelf is no ſuch great Evil as it is commonly apprehended to be, and therefore not mightily to be feared.</p>
+            <p>
+               <hi>Secondly,</hi> That the Wrath of God againſt Sinners, and the Puniſhment following upon
+<pb n="8" facs="tcp:59515:5"/>that Wrath, are very great Evils, and there<g ref="char:EOLhyphen"/>fore much to be feared. And,</p>
+            <p>In <hi>Concluſion,</hi> I ſhall ſhew the Advantage of the true Fear of God, in reſpect of the Happineſs it brings to this Life, as well as that to come, How it frees and delivers us from all other Fears or Terrors what<g ref="char:EOLhyphen"/>ſoever.</p>
+            <p>
+               <hi>Firſt,</hi> Then Death in it ſelf is no ſuch great Evil, that we ought ſo mightily to fear it; And this will appear, if we enquire into the <hi>Good it deprives us of;</hi> For Death it ſelf can be no way Evil, but in reſpect of ſome good it takes from us, which we might otherwiſe enjoy. What is then the great Good? The Happineſs and Satis<g ref="char:EOLhyphen"/>faction that a Man can have in Life, and from which we are cut off by Death?</p>
+            <p>And for the knowing of this we can have no better way, than to ask of thoſe, who have had the greateſt Experience of the Enjoyments of this Life. What their Opinion is, How they find it. And ſurely
+<pb n="9" facs="tcp:59515:5"/>
+               <hi>Solomon</hi> is a very ſufficient Evidence in this Caſe. No Man could enjoy more in this Life than he did, and he declares all that Enjoyment to be <hi>Vanity and Vexation of Spirit.</hi>
+            </p>
+            <p>And if you deſire to be ſatisfied by a <hi>Living Witneſs</hi> in this Matter, and will ask any Man, that you think has enjoy'd the greateſt Portion of Health and Proſperity, and long Life, Whether he thinks he has always been a very Happy Man; And whe<g ref="char:EOLhyphen"/>ther, if he was put to his Choice, he would chuſe to live the very ſame Life in all its Circumſtances, that he hath liv'd, over again. (I ſay, The very ſame in all its Circum<g ref="char:EOLhyphen"/>ſtances, becauſe Men would deſire to live again, that they might order their Affairs better, and have more Delight and Enjoy<g ref="char:EOLhyphen"/>ment, than they have had: And it is the Hope that Men have, that ſtill their Life will be more Pleaſant and Comfortable, than it has been, that makes them endure their Lives. They ſtill feed themſelves with Hope, and that buoys them up and encou<g ref="char:EOLhyphen"/>rages
+<pb n="10" facs="tcp:59515:6"/>them.) There is none will ſay, He deſires the ſame Life again, that he has paſs'd thro'. There is none will tell you, that his paſt Life has been to his Mind, or in his Opinion Happy. What hurt then, I pray, does Death do us, in taking us out of a Condition, in which no Man was ever ſatisfied, or thought himſelf Happy?</p>
+            <p>But if by chance ſuch a Man ſhould be found that affects to be Singular, to main<g ref="char:EOLhyphen"/>tain Paradoxes, and will ſay, That his paſt Life has been altogether to his Mind, That he ſhould be very glad to live the ſame over again, and that therefore Death muſt needs be very Evil, becauſe it cuts him off from ſo deſirable a Good. We muſt refute ſuch a Man, by ſhewing the Nature of theſe Enjoyments, and what kind of Poſſeſſion a Man can have of them.</p>
+            <p>And the Enjoyments that are peculiar to this Life (for as for Intellectual Pleaſures,
+<pb n="11" facs="tcp:59515:6"/>which ariſe, either from the Contempla<g ref="char:EOLhyphen"/>tion of God's Works, or the Study of the Arts and Sciences, or the conſtant Practice of Vertue, which is the greateſt Pleaſure a Rational Creature can have, theſe Plea<g ref="char:EOLhyphen"/>ſures will be had in much greater Per<g ref="char:EOLhyphen"/>fection in another Life.) I ſay, the Enjoy<g ref="char:EOLhyphen"/>ments that are peculiar to this Life, and from which we are cut off by Death, are either of Worldly Honours, Riches or Sen<g ref="char:EOLhyphen"/>ſual Pleaſures; for ſo St. <hi>John</hi> reduces them to theſe Heads; <hi>All that is in the Worlds,</hi> ſaith he, <hi>is the Luſt of the Fleſh, the Luſt of the Eye, and the Pride of Life.</hi> Theſe things indeed are peculiar to this Life, and Death will for ever take them from us, after we have taken the greateſt pains to compaſs them.</p>
+            <p>Now a Man muſt have a very mean and narrow Mind, that can think, That the Happineſs of a Rational Creature can conſiſt in the Enjoyment of any of theſe things; The vileſt Beaſt, or moſt incon<g ref="char:EOLhyphen"/>ſiderable Infect were then capable of almoſt
+<pb n="12" facs="tcp:59515:7"/>as much Happineſs as the beſt or wiſeſt Man. But ſuppoſing a Man, by long ac<g ref="char:EOLhyphen"/>cuſtoming himſelf to Senſuality, hath brought himſelf to ſuch low and Brutiſh Thoughts, by drinking deep of ſuch en<g ref="char:EOLhyphen"/>toxicating Cups of ſenſual Pleaſure, is be<g ref="char:EOLhyphen"/>come with <hi>
+                  <g ref="char:V">Ʋ</g>lyſſes</hi>'s <hi>Companions</hi> little other than a Swine: yet if he hath the leaſt Spark of Reaſoning left in him, if he can ſee but the length of one Conſequence, he cannot but ſee, that theſe Pleaſures, how Satisfactory ſoever they are to him, are not durable, that they muſt be ſhort at the beſt, and that a thouſand Accidents may ſnatch them from him every Moment. Now the more a Man values and is in love with theſe Enjoyments, the more this Thought muſt vex and torment him, That he muſt part with them, and he knows not how ſoon. To a Man that is indiffe<g ref="char:EOLhyphen"/>rent this is nothing, But to him that has ſet his Affections on theſe things, this is Gall and Wormwood, it embitters and ſpoils all his Enjoyment; For whatever the Epicureans may pretend, A Death's
+<pb n="13" facs="tcp:59515:7"/>Head is but ill Company at an Intempe<g ref="char:EOLhyphen"/>rate Feaſt. And the great pains they take, the unnatural force they put upon things to reconcile the thoughts of Death with their ſenſual Pleaſures, plainly ſhews, that this does ſtill trouble them; it lyes at the bottom like a bitter dreg, and ſpoils all their ſweet Morſels and pleaſant Draughts. For when the witty Atheiſt ſays, <hi>Let us eat, drink and be Merry, for to morrow we ſhall dye.</hi> This is but a Copy of his Coun<g ref="char:EOLhyphen"/>tenance, this thought Galls him at the Heart, at the ſame time, that he pretends therewith to encourage his Mirth, and he would ſay with much more Alacrity, <hi>Let us fill our ſelves, for to morrow ſhall be as this day, and much more abundant.</hi> This comes heartily from him. The other is but a cold Pretence.</p>
+            <p>The great Uncertainty then of holding theſe things, and the certain Knowledge, that they muſt in a little while for ever part with them, cannot but leſſen, if not utterly Marr the Enjoyment even with thoſe
+<pb n="14" facs="tcp:59515:8"/>that are moſt fond of them. So that Death takes little even from the ſenſual Man, but what the Fear of Death had al<g ref="char:EOLhyphen"/>moſt depriv'd him of before. <hi>For even in the midſt of Laughter this Thought always made his Heart Sad, That he muſt dye and leave all.</hi>
+            </p>
+            <p>But now to a Man of a large and wiſe Mind, theſe low Pleaſures are of little or no value. He looks far beyond them, and is even quite weary with being ſo long clogg'd and darken'd in this Caſe of Fleſh, with being confin'd to this Earth, to creep like a Worm upon it, and to be kept con<g ref="char:EOLhyphen"/>tinually to the ſame dull Round of things, which he goes through almoſt in the ſame manner every day of his Life. This is ſo Tireſome to the active ſearching Nature of our Spirit, that it cannot endure it; and therefore the Ancients had a <hi>Fable</hi> of a Man, that might have been Immortal, if he would; but he was ſo ſated with the ſame thing over and over again in Life, that he choſe rather to die, that he might
+<pb n="15" facs="tcp:59515:8"/>have the Satisfaction of ſeeing another Scene of things.</p>
+            <p>And the Noble Heaven-born Mind of him, that hath not debas'd and plung'd it in the Mire of Senſuality, muſt needs be deſirous of making greater Diſcoveries, than are to be had here below. He muſt long to ſee and know thoſe Glorious Orbs, of which he now knows nothing, or what is next to nothing, and yet mightily ad<g ref="char:EOLhyphen"/>mires at a diſtance to range through the mighty Space of the Univerſe, and to have his Mind continually entertain'd and feaſted with clear and certain Knowledge of the wonderful Operations of his Maker, to have his Mind always more and more inform'd and enlighten'd with the moſt pleaſing and ſatisfactory Knowledge of God, his Glorious Attributes and wonderful Works, and yet never to want new Matter of In<g ref="char:EOLhyphen"/>formation.</p>
+            <p>To a Man whoſe Mind is rais'd to theſe Noble Deſires, Death is ſo far from being
+<pb n="16" facs="tcp:59515:9"/>an Evil, that it is the moſt deſirable Good. It is like the opening of the Eyes to a Man that was Born Blind, like the Unpinioning or Unſhackling of a Priſoner, and letting him out of a ſtrait dark and foul Dungeon, into the free and unreſtrain'd Enjoyment of all that he can wiſh or deſire. So that neither to the Fool, who dotes on theſe things, nor yet to the wiſe Man, who knows how to put a right Value upon every thing, are the Enjoyments of this World any great Matter, tho' they have them in their Poſſeſſion, or within their Power; ſo that Death doth not much hurt them in taking them away.</p>
+            <p>But what, then, are theſe Enjoyments to thoſe we term Unhappy in the World, who certainly make no ſmall Part of it, ſuch as are the Blind, the Lame, the Maimed, the Diſeaſed, the Poor and Needy, or thoſe that meet with great Croſſes or Diſappoint<g ref="char:EOLhyphen"/>ments, and are not able to bear them, or ſuch as have always their Deſires running far before their Fortunes, ſuch as are ever
+<pb n="17" facs="tcp:59515:9"/>diſpleas'd and diſſatisfied, and out of Hu<g ref="char:EOLhyphen"/>mour with their Condition, whatever it be; Theſe Men taſte but little of the En<g ref="char:EOLhyphen"/>joyment of the World, or at leaſt have but little Reliſh of them, and Death can do ſuch Men little Hurt by taking them away from them; For to ſuch many times may be apply'd the Words we read in the Third of <hi>Job, Wherefore is Light given to him that is in Miſery, and Life to the bitter in Soul? which long for Death, but it comes not, and dig for it more than for hid Treaſures?</hi> To ſuch Perſons then Death is rather a Relief than a Prejudice.</p>
+            <p>And is it not ſo indeed to all Men? For there is no Man living but has more pain and Travel, than he has Pleaſure in this World. For all Mankind fell under that Curſe, <hi>That in the Sweat of their Brows, they ſhould eat their Bread; And that this Earth ſhould bring forth Briers and Thorns to them inſtead of pleaſant Fruit.</hi> No Man is exempt from this; Not the Rich and Noble, any more than the Poor and de<g ref="char:EOLhyphen"/>ſpiſed;
+<pb n="18" facs="tcp:59515:10"/>Nay, Great Men have more Soli<g ref="char:EOLhyphen"/>citude, and muſt take more Care and Pains to Maintain themſelves with Honour and Safety in the Station wherein God hath plac'd them, and to anſwer thoſe Ends, which both God and Man expect from them, than the Labouring Man doth to get his Bread. In a word, No Man what<g ref="char:EOLhyphen"/>ſoever can do what is neceſſary for him, and what is his Duty to do, and without the doing of which, he can have neither Credit or Comfort in his Life, but it will coſt him the Sweat of his Brows, much Care and Pains, and every Man's Buſineſs will yield him the Thorns and Briers of Perplexity; So that nothing can be truer, than the words we read in the Fifth of <hi>Job, That Man is born to Labour and Trou<g ref="char:EOLhyphen"/>ble, as naturally as the Sparks fly upward.</hi>
+            </p>
+            <p>Conſidering therefore the true State and Condition of Man in this World, Death in it ſelf is ſo far from being an Evil, that it is an Eaſe, a Relief, a Refreſhment. It is like a Soft Bed after a Hard Day's Labour,
+<pb n="19" facs="tcp:59515:10"/>like a ſafe and quiet Harbour after a Stormy and turbulent Voyage. It lays us gently down in our Mother's Soft Lap to Peace and Reſt, out of the Reach of all the Ma<g ref="char:EOLhyphen"/>lice of our Enemies, (who have no more that they can do to us) out of the Power of any more Misfortunes. O Happy Death! How deſirable wert thou? How far from being Terrible, if there were nothing to be fear'd afterwards?</p>
+            <p>But after Death there is an account to be given of our Lives; God will have an account from his Creatures of the keeping or the breaking of his Laws. And it is moſt fit he ſhould, His Wiſdom, Juſtice and Goodneſs might all be call'd in queſti<g ref="char:EOLhyphen"/>on, <hi>if he did not reward every Man ac<g ref="char:EOLhyphen"/>cording to his Works in another Life,</hi> Since this cannot be conveniently done here with<g ref="char:EOLhyphen"/>out deſtroying the preſent Frame of things, where the Goats cannot be ſeparated from the Sheep, nor the Tares from the Wheat, This day of Reckoning every Man's Con<g ref="char:EOLhyphen"/>ſcience bids him expect; And this, I am
+<pb n="20" facs="tcp:59515:11"/>perſwaded (tho' it be not ſometimes per<g ref="char:EOLhyphen"/>ceiv'd) is Death's moſt bitter Sting, the true Cauſe of its being ſo very Terrible to Men.</p>
+            <p>If we go out of this World without repenting of our Sins, the Wrath of God remains to be our Portion, and the Effects of that are truly Fearful, which is the</p>
+            <p>Second Point, Therefore ſaith our Saviour, <hi>But I will forewarn you, whom you ſhall fear, Fear him, which after he hath killed, hath power to caſt into Hell; Yea, I ſay unto you, Fear him.</hi> He that was infinitely Wiſe, that knew all things, and knew what would come to paſs, he forewarns us, and he that was mightily concern'd for our Salva<g ref="char:EOLhyphen"/>tion, he beſeecheth us, as his Friends, and likewiſe enjoyns us with all his Authority, as our Maſter, to fear God. There muſt then be ſome high Reaſon for this Fear; and ſo there is; For the Danger is great and unexpreſſible, that he would have us be afraid of, and by our Fear fly from and
+<pb n="21" facs="tcp:59515:11"/>eſcape. If you fear a Temporal Death, God's Wrath can and will kill and take away the Natural Life; but this is little, (as I have ſhewn you) it is nothing in compariſon of the other Effect of God's Wrath, <hi>After he hath killed, he will caſt into Hell.</hi> This is that which ſhould fill us with Terror, as <hi>Job</hi> ſays, <hi>Job</hi> 31.23. <hi>Deſtruction from God</hi> (that is, this Mighty Deſtruction) <hi>was a Terror to me.</hi> And that kept him from Sin.</p>
+            <p>A Temporal Death cuts us off from the few, empty, uncertain, and at the beſt but ſhort Enjoyments of this World; but Eternal Death, that is, Damnation, cuts us off from thoſe unexpreſſible Joys, which would fill our Souls, and would laſt to all Eternity; and more than that, con<g ref="char:EOLhyphen"/>demns us to Regions of Darkneſs and Torments for ever. This is a moſt Dread<g ref="char:EOLhyphen"/>ful Condition! The Scripture ſets it forth by things that are moſt Terrible to us, ſuch as are <hi>Raging Fire, Extream Darkneſs, Perpetual Gnawing,</hi> and the like. But what
+<pb n="22" facs="tcp:59515:12"/>words can expreſs? Nay, what Heart can conceive, what Dreadful Miſery an Infi<g ref="char:EOLhyphen"/>nite God is able to bring upon his Ene<g ref="char:EOLhyphen"/>mies, ſuch as have contemn'd both his Juſtice and his Mercy, that have fruſtrated, ſcorn'd and derided all that he could do for their Salvation? Hear how the Wiſe Man ſets this forth in the firſt of the <hi>Pro<g ref="char:EOLhyphen"/>verbs</hi> beginning at the 24. Verſe, where he brings in the Wiſdom of God thus ſpeaking, <hi>Becauſe I have called, and ye re<g ref="char:EOLhyphen"/>fuſed, I have ſtretched out my hand, and no Man regarded; But ye have ſet at naught all my Counſel, and would none of my Re<g ref="char:EOLhyphen"/>proof: I alſo will laugh at your Calamity, I will mock when your fear cometh; When your fear cometh as Deſolation, and your De<g ref="char:EOLhyphen"/>ſtruction cometh as a Whirlwind; when Di<g ref="char:EOLhyphen"/>ſtreſs and Anguiſh cometh upon you.</hi>
+            </p>
+            <p>Here is a Danger worthy our Thoughts, our higheſt Concern, our greateſt Fear; for this is the laſt Degree of Miſery, into which Man can fall; and hath not that Relief, which all Temporal Miſeries have,
+<pb n="23" facs="tcp:59515:12"/>when they come to Extremity, that then they are ſoon over. No, this will laſt and increaſe to all Eternity: The ſad Remem<g ref="char:EOLhyphen"/>brance of what we have endur'd, and the Dreadful Proſpect of what we are ſtill to endure, and that without Remedy, ſhall unſpeakably increaſe the Torment. What wou'd not a Man do to eſcape this? What can tempt us to run the Dreadful Hazard of it? What is there in Sin thus to prevail with us? Alas! We are pre<g ref="char:EOLhyphen"/>ſently weary of ſinful Enjoyments our ſelves; Why ſhould we provoke the fearful Wrath of God for them? Why ſhould we ſell our Souls, part with all the Joys of Hea<g ref="char:EOLhyphen"/>ven, endure an Eternity of ſuch Dreadful Torments, as are in Hell, for ſuch empty, vain, momentary Pleaſures, ſuch meer Dreams and Shadows of Delight, ſuch mixture of Pain with Pleaſure? Do not they deſerve Hell, whom Hell it ſelf can<g ref="char:EOLhyphen"/>not wean from ſuch Folly and Madneſs? Let us be aſham'd that we are ſo Stupid, ſo inſenſible both of our Intereſt and Dan<g ref="char:EOLhyphen"/>ger. Would you not think him Mad that
+<pb n="24" facs="tcp:59515:13"/>ſhould follow a Butter-fly upon the Brink of a Precipice? Let us open our Eyes and ſee our Danger; Let the Terrors of God be upon us; Let them make us quick to diſcern, <hi>That it is an evil thing, and bit<g ref="char:EOLhyphen"/>ter, to ſin againſt the Living God;</hi> and that no ſinful Enjoyment whatſoever can compenſate our Loſs, as our Saviour ſays, <hi>Mark</hi> 8.36. <hi>What ſhall it profit a Man, if he ſhall gain the whole World, and loſe his own Soul?</hi> None of us can gain the whole World; but if it were to be gain'd, all that was in it, and enjoy'd by one Man; the Queſtion were eaſily decided, whether it were beſt for a Man to Sin, to gain it. The World we could have but a little time: But if we dye Impenitent, we muſt imbrace Torments to all Eternity. And if it be ſo eaſie to be decided, when the Que<g ref="char:EOLhyphen"/>ſtion is about the moſt profitable Sin, What is it in the Caſe of every little Impertinent Folly, that we ſell our Souls for? Lord! What is become of the Underſtanding of Rational Creatures? We are Melancholly at the Apprehenſion of any Pain or Diſeaſe
+<pb n="25" facs="tcp:59515:13"/>that is coming on our Bodies, and we are not concern'd at Everlaſting Pains, into which our Sins are drawing us. We fear every little worldly Loſs, and we fear not, we care not, for the loſs of our Souls. We are apprehenſive of every Temporal Danger, and we have no Senſe, no Appre<g ref="char:EOLhyphen"/>henſion of the Danger of Eternal Dam<g ref="char:EOLhyphen"/>nation.</p>
+            <p>Well, if we have no Care of our Im<g ref="char:EOLhyphen"/>mortal Souls, no Reliſh, no Deſires after the Joys of Heaven, no Dread or Appre<g ref="char:EOLhyphen"/>henſion of the Fearful Torments of Hell; becauſe they are not juſt under our view, though a moſt reaſonable Faith makes us as ſure of them: Yet methinks this ſhould move us, that our worldly Affairs will go better, and we ſhall be troubled with no Fears about them, if we will but fear God, and in conſequence of that Fear, forbear to provoke and offend him; for the Fear of God, which worketh Obe<g ref="char:EOLhyphen"/>dience, will not only remove from us fu<g ref="char:EOLhyphen"/>ture and Eternal, but even preſent and Tem<g ref="char:EOLhyphen"/>poral,
+<pb n="26" facs="tcp:59515:14"/>Judgments; and will ſet us at Liberty, and free us from all other Fear whatſoever. Which was the</p>
+            <p>
+               <hi>Third and laſt thing obſerved.</hi> The Fear of God will make us Free, it will deliver us from all Idle, Vain and Tormenting Fear, it will clear us from all Care and Trouble. To fear little or no Danger, as the Scri<g ref="char:EOLhyphen"/>pture ſays, <hi>To Fear where no Fear is,</hi> no juſt Cauſe of it, is Childiſhneſs and Folly: To fear when we are able to grapple with, to withſtand and overcome the Danger, is Cowardiſe: But to fear where there is an Imminent and Dreadful Danger, which we have no Power to withſtand, is cer<g ref="char:EOLhyphen"/>tainly great Wiſdom. And what can ſtand againſt the Wrath of God? It is no Cou<g ref="char:EOLhyphen"/>rage then (as ſome pretend) but the ex<g ref="char:EOLhyphen"/>treameſt Stupidity or Madneſs, not to fear and ſtand in awe of him. It is as if a Man ſhould ſee a Tower falling upon him, and ſcorn'd to be ſo daſtardly as to fear it, but reſolv'd to ſtand under it, and bear it up with his Shoulders. They that
+<pb n="27" facs="tcp:59515:14"/>do not fear God, have not the leaſt Rea<g ref="char:EOLhyphen"/>ſon or Underſtanding left in them. To be utterly void of Fear in this Caſe, is to be Stupid or Diſtracted, to be without Senſe or Apprehenſion, not to be able to diſcern between Good and Evil, Safety and Danger. But hath the Bold Sinner then (according to his Fooliſh Boaſting) no Fear upon him? Does he go on Chear<g ref="char:EOLhyphen"/>fully and Couragiouſly in his Sins, with<g ref="char:EOLhyphen"/>out any Qualms, with any Miſgivings, without being troubled with the leaſt Fear, is he ſet at Liberty, is he free from all Fear? No ſuch Matter, 'tis quite otherwiſe with him, he fears every thing but God; He fears, leſt his Con<g ref="char:EOLhyphen"/>fidence and Preſumption, that God does not ſee nor regard, ſhould fail him, and God ſhould at laſt take a Dreadful Ven<g ref="char:EOLhyphen"/>geance upon him. Every piece of ill News, every Noiſe of any ſudden Danger, is as the Terrours of the Shadow of Death to him. He is in the Caſe of <hi>Belſhazzar, Dan.</hi> 5.6. <hi>The Joynts of his Loins are looſed, and his Knees ſmite one againſt ano<g ref="char:EOLhyphen"/>ther.</hi>
+               <pb n="28" facs="tcp:59515:15"/>Every loſs of his worldly Goods cuts him to the Heart, becauſe this is his All, his Portion, his whole Dependance; And then for the Fatal News of Death, when that comes (as come it muſt) he receives it either as <hi>Nabal</hi> did the News of <hi>David</hi>'s coming to take Vengeance on him, <hi>His Heart even dies within him, and he becomes as a Stone,</hi> 1 <hi>Sam.</hi> 25.37. Or elſe he becomes Mad with Anguiſh, to think that he muſt at once leave this World, and all that he eſteem'd or valued, for ever, and enter into unknown Regions, where he can have no Friend, having never thought of making any there, but muſt fall into the Hands of Powerful and Crafty Angels, that will be glad of another Com<g ref="char:EOLhyphen"/>panion in their Miſery, and who will wreak their Malice, and vent the Spite and Anguiſh that is in their Spirits, for the Heavy Vengeance that God juſtly takes on them, by Vexing and Tormenting one of his Creatures, that is fallen into their Hands.</p>
+            <pb n="29" facs="tcp:59515:15"/>
+            <p>I might add that no Men have ſo much Vain and Superſtitious Fear, as thoſe that think it a Diſparagement to their Courage to fear God. No Men are ſo obſervant of Omens and Blind Prophecies, and ſeek ſo much to Wizards, and thoſe that have Fami<g ref="char:EOLhyphen"/>liar Spirits, as theſe very Men do, even like <hi>Saul,</hi> when he had rebelled againſt God, and had no more Hope in him, 1 <hi>Sam.</hi> 28. <hi>Ch.</hi> and ſo they fear the Devil extreamly, though they will not fear God.</p>
+            <p>But now from all theſe Vain, Baſe and Slaviſh Fears, doth the Fear of God at once deliver us; for he that fears God, and takes care to pleaſe him, believes that all things are diſpoſed of by his over-ruling Power; and that he is certainly a Wiſe and a Good Being, that will ſuffer nothing to hurt thoſe that truly ſerve him, and endeavour to raiſe themſelves to the higheſt Perfection of Ra<g ref="char:EOLhyphen"/>tional Creatures; <hi>But that all things ſhall work together for good to them, and that there<g ref="char:EOLhyphen"/>fore they need be careful in nothing, but caſt all their Care on him who careth for them; They
+<pb n="30" facs="tcp:59515:16"/>may lie down and riſe in ſafety and ſecurity; becauſe the Lord ſuſtains them; He will ſuffer no Evil to come nigh their Dwelling, but will give his Angels charge over them.</hi> And if through the Courſe of his Providence, they ſhould ſuffer any Loſs in the Company with others in this World, yet he is able, and will certainly make it up to them in Heavenly Joys. Nay indeed any Temporal Loſs or Calamity will be but a very light and inconſiderable thing, to a Man that is become Wiſe by the Fear of God, and that governs himſelf in a ſteady and conſtant Conformity to his moſt Holy and reaſonable Laws, he will have ſuch Comforts, ſuch Delight and Satis<g ref="char:EOLhyphen"/>faction in his Mind by ſo doing, that nothing will be able to Imbitter or Spoil this Feaſt; for this is the <hi>Summum Bonum,</hi> the chief Happineſs; and all wiſe Men agree, that he that hath that, cannot be Miſerable. The Joy of walking Reaſonably and Holily is ſo Great, ſo Genuine and Natural to Man, that nothing is capable of diſturbing the Man that ſo walks: But like as one Drop of Blood is not capable of diſcolouring a vaſt
+<pb n="31" facs="tcp:59515:16"/>clear River, or a little Dirt of Mudding or Troubling it; ſo is a little Bodily Pain, or Wordly Loſs or Affliction utterly drown'd, loſt and ſwallow'd up in the Soul of him that is ſo fill'd with Joy and Satisfaction, as his muſt needs be, who hath true Peace of Con<g ref="char:EOLhyphen"/>ſcience, and Joy in the Holy Ghoſt.</p>
+            <p>Thus doth the true Fear of God, which takes away our Sins, deliver us from all other Fears, and remove all Cares and Troubles from us, and make us Happy both here and hereafter. Let us then but forſake our Sins, which alone can make the Fear of God Ter<g ref="char:EOLhyphen"/>rible to us, and ſhew by the Amendment of our Lives, that we have the true Fear of God before our Eyes, and we need fear no<g ref="char:EOLhyphen"/>thing elſe; for nothing can harm us, we are ſafe in the Protection of the Almighty.</p>
+            <p>
+               <hi>To whom be all Honour and Glory, now and for ever,</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:59515:17"/>
+            <head>Books ſold by <hi>T. Jones</hi> at the <hi>White Horſe</hi> without <hi>Temple-Bar.</hi>
+            </head>
+            <p>A Diſcourſe of God's Ways of Diſpoſing of King<g ref="char:EOLhyphen"/>doms <hi>&amp;c.</hi>
+            </p>
+            <p>A Sermon preached before the Queen <hi>January</hi> 30. Both by the Biſhop of St. <hi>Aſaph,</hi> Lord Almoner to Their Majeſties.</p>
+            <p>A Letter to Dr <hi>Sherlock</hi> in Vindication of his Diſ<g ref="char:EOLhyphen"/>courſe, Entituled, <hi>The Caſe of Allegiance.</hi>
+            </p>
+            <pb facs="tcp:59515:17" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
